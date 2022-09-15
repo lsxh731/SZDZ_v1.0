@@ -1,4 +1,4 @@
-﻿#include "qthreadobject.h"
+#include "qthreadobject.h"
 #include <QMutexLocker>
 #include <stdint.h>
 

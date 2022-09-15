@@ -1,4 +1,4 @@
-﻿#include "config_widget.h"
+#include "config_widget.h"
 #include "ui_config_widget.h"
 #include <QFont>
 #include <QDebug>

@@ -1,4 +1,4 @@
-﻿#ifndef CONFIG_WIDGET_H
+#ifndef CONFIG_WIDGET_H
 #define CONFIG_WIDGET_H
 
 #include <QDialog>

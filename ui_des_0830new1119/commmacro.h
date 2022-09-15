@@ -1,4 +1,4 @@
-﻿#ifndef COMM_MACRO_H
+#ifndef COMM_MACRO_H
 #define COMM_MACRO_H
 #include "mywidget.h"
 #define UBUNTU

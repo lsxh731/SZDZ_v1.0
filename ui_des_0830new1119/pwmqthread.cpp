@@ -1,4 +1,4 @@
-﻿#include "pwmqthread.h"
+#include "pwmqthread.h"
 #include <stdint.h>
 
 PwmqThread::PwmqThread(QObject *parent) : QObject(parent)

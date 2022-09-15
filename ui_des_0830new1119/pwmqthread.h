@@ -1,4 +1,4 @@
-﻿#ifndef PWMQTHREAD_H
+#ifndef PWMQTHREAD_H
 #define PWMQTHREAD_H
 #include "commmacro.h"
 #include <QObject>
